@@ -1,5 +1,3 @@
-# Glu2Wear
-
 # **Glu2Wear Privacy Policy**
 
 **Effective Date:** 24/02/2025
